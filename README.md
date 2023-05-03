@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🌱 I’m currently learning **Data Analytics , Data Science**
+- 🌱 I’m currently learning **Data Analytics , Data Science, MERN Stack, Django, AWS**
 
 - 📫 How to reach me **nayandeep06@gmail.com**
 
